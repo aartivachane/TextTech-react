@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTech-react/static/css/main.dc4d6ff2.css",
+    "main.js": "/TextTech-react/static/js/main.292d7eb6.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextTech-react/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextTech-react/index.html",
+    "main.dc4d6ff2.css.map": "/TextTech-react/static/css/main.dc4d6ff2.css.map",
+    "main.292d7eb6.js.map": "/TextTech-react/static/js/main.292d7eb6.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextTech-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.292d7eb6.js"
+  ]
+}
